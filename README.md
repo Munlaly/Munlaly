@@ -17,6 +17,7 @@ I am Német-Deák Bence from Transylvania. I currently study at **Sapientia Hung
 
 ### 🏫 Sapientia University 🏫 <img src="sapi_logo.png" alt="Sapientia Logo" height="25" align="top" />
 - ⏭️ [Skiplist](https://github.com/Munlaly/SkipList)
+- 🕸️ [Graph Algorithms](https://github.com/Munlaly/Graph-Theory)
 
 ### ✈️ Erasmus Semester at Eötvös Loránd University (Budapest) ✈️ <img src="elte_logo.png" alt="ELTE Logo" height="25" align="top" />
 - 🍇 [Vineyard Management System](https://github.com/Munlaly/Vineyard-Management-System) - *Operating Systems*
