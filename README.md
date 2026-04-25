@@ -22,3 +22,4 @@ I am Német-Deák Bence from Transylvania. I currently study at **Sapientia Hung
 ### ✈️ Erasmus Semester at Eötvös Loránd University (Budapest) ✈️ <img src="elte_logo.png" alt="ELTE Logo" height="25" align="top" />
 - 🍇 [Vineyard Management System](https://github.com/Munlaly/Vineyard-Management-System) - *Operating Systems*
 - 📜 [QuestLog](https://github.com/Munlaly/Quest-Log-Manager) - *Object-oriented Python CLI for quest and inventory management*
+- 🌊 [Farawayland Water Pipes](https://github.com/Munlaly/farawayland-water-pipes) - *A high-performance Vanilla JS puzzle game featuring a strict MVC architecture, Graph Theory (BFS) network validation, and local data persistence.*
