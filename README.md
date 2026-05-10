@@ -23,4 +23,4 @@ I am Német-Deák Bence from Transylvania. I currently study at **Sapientia Hung
 - 🍇 [Vineyard Management System](https://github.com/Munlaly/Vineyard-Management-System) - *Operating Systems*
 - 📜 [QuestLog](https://github.com/Munlaly/Quest-Log-Manager) - *Object-oriented Python CLI for quest and inventory management*
 - 🌊 [Farawayland Water Pipes](https://github.com/Munlaly/farawayland-water-pipes) - *A high-performance Vanilla JS puzzle game featuring a strict MVC architecture, Graph Theory (BFS) network validation, and local data persistence.*
-- - 🕳️ [Black Hole](https://github.com/Munlaly/Black-Hole) - *An event-driven PySide6 desktop game featuring a strict MVC architecture, dynamic grid generation, and JSON data persistence.*
+- 🕳️ [Black Hole](https://github.com/Munlaly/Black-Hole) - *An event-driven PySide6 desktop game featuring a strict MVC architecture, dynamic grid generation, and JSON data persistence.*
