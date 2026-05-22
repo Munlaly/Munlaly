@@ -24,3 +24,4 @@ I am Német-Deák Bence from Transylvania. I currently study at **Sapientia Hung
 - 📜 [QuestLog](https://github.com/Munlaly/Quest-Log-Manager) - *Object-oriented Python CLI for quest and inventory management*
 - 🌊 [Farawayland Water Pipes](https://github.com/Munlaly/farawayland-water-pipes) - *A high-performance Vanilla JS puzzle game featuring a strict MVC architecture, Graph Theory (BFS) network validation, and local data persistence.*
 - 🕳️ [Black Hole](https://github.com/Munlaly/Black-Hole) - *An event-driven PySide6 desktop game featuring a strict MVC architecture, dynamic grid generation, and JSON data persistence.*
+- ⚓ [Project Poseidon](https://github.com/Munlaly/Project-Poseidon) - *A FastAPI backend for real-time maritime telemetry ingestion, featuring vectorized Pandas/PyArrow data pipelines and interactive Plotly spatial and temporal dashboards.*
