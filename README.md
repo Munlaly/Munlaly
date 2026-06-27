@@ -20,6 +20,8 @@ I am Német-Deák Bence from Transylvania. I currently study at **Sapientia Hung
 - 🕸️ [Graph Algorithms](https://github.com/Munlaly/Graph-Theory)
 
 ### ✈️ Erasmus Semester at Eötvös Loránd University (Budapest) ✈️ <img src="elte_logo.png" alt="ELTE Logo" height="25" align="top" />
+- 💧 [Farawayland Water Bills](https://github.com/Munlaly/farawayland-water-bills) - *A robust PHP/SQLite water utility dashboard featuring secure session-based authentication, relational database transactions (PDO), dynamic billing algorithms, and a strictly separated semantic UI.*
+- 🍇 [Vineyard Management System](https://github.com/Munlaly/Vineyard-Management-System) - *Operating Systems*
 - 🍇 [Vineyard Management System](https://github.com/Munlaly/Vineyard-Management-System) - *Operating Systems*
 - 📜 [QuestLog](https://github.com/Munlaly/Quest-Log-Manager) - *Object-oriented Python CLI for quest and inventory management*
 - 🌊 [Farawayland Water Pipes](https://github.com/Munlaly/farawayland-water-pipes) - *A high-performance Vanilla JS puzzle game featuring a strict MVC architecture, Graph Theory (BFS) network validation, and local data persistence.*
